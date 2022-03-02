@@ -1,0 +1,9 @@
+https://www.google.com/search?q=modular+game+assets&tbm=isch&ved=2ahUKEwjpr7ymyaL2AhWHBcAKHXuGD5EQ2-cCegQIABAA&oq=modular+assets&gs_lcp=CgNpbWcQARgCMgcIIxDvAxAnMgYIABAFEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBAgAEBgyBAgAEBhQAFgAYOoJaABwAHgAgAF7iAF7kgEDMC4xmAEAqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=VtccYumsLIeLgAb7jL6ICQ&bih=927&biw=1920&client=firefox-b-d#imgrc=Gn6uvkpETiKxpM
+
+Functionnalities :
+	Auto Attack
+	Basic Enemy
+	Stats
+	Abilities
+	Better enemies
+	Add different gameplay
