@@ -7,4 +7,5 @@ Functionnalities :
 	Add different gameplay
 
 Peut-on référencer des touches pour les abilities ?
-Struct avec fonctions ? 
+Catégoriser les variables ?
+
